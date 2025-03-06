@@ -7,5 +7,9 @@ Template:       generatepress
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
 a {
-    color: #45880d !important;
+    color: #0d2688 !important;
+}
+
+body {
+    background-color: #efe0ff !important;
 }
